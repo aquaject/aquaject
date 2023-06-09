@@ -8,7 +8,6 @@ Social:
 
 <a href="https://www.youtube.com/@aqua-qp1ph"><img src="https://badges.aleen42.com/src/youtube.svg"></a>
 <a href="https://twitter.com/aquaject"><img src="https://badges.aleen42.com/src/twitter.svg"></a>
-<a href="https://steamcommunity.com/profiles/76561198313885550/"><img src="https://badges.aleen42.com/src/steam.svg"></a>
 
 
 Here I will post all of my projects regarding Front-end development 
@@ -18,7 +17,6 @@ Technology Used:
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">  
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> 
